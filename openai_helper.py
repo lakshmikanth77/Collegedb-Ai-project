@@ -5,7 +5,7 @@ import json
 from secret_key import openai_api_key
 import db_helper1
 
-openai.api_key = "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"
+openai.api_key = openai_api_key
 
 
 def get_answer(question):
