@@ -1,1 +1,1 @@
-# Collegedb-Ai-project
+# CollegedbAiproject
